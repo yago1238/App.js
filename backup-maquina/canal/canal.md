@@ -3,9 +3,9 @@
 > O `/instalar` preenche este arquivo com você. Pode editar quando quiser.
 > A IA lê isso antes de escrever qualquer roteiro.
 
-**Nome do canal:** Universo Curioso
-**@ nas redes:** @universocurioso
-**Assinatura do fim do vídeo:** E segue o Universo Curioso.
+**Nome do canal:** Yago Vinicius
+**@ nas redes:** @yagovinicius
+**Assinatura do fim do vídeo:** E segue o Yago Vinicius.
 
 ## Tema
 
@@ -40,4 +40,4 @@ a pergunta do vídeo em cima, o personagem com cara exagerada e o objeto do tema
 
 ## Hashtags (até 5)
 
-#comofunciona #curiosidades #<tema-do-video> #universocurioso
+#comofunciona #curiosidades #<tema-do-video> #yagovinicius

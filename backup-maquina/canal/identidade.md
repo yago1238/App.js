@@ -66,7 +66,7 @@ cartão mostra a inicial do canal na cor do canal.
 
 ```json
 "cor": "#f39a1e",
-"arroba": "@universocurioso",
+"arroba": "@yagovinicius",
 "estilo": "redondo",
 "fps": 60,
 "efeitos": {"abaixa": true},
